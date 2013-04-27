@@ -31,7 +31,7 @@ What are you waiting for? The weather has never been cooler.
 ##Version
 
 ### 1.0 
-![](https://itunesconnect.apple.com/itc/images/status-orange.png) Waiting For Review
+![](https://itunesconnect.apple.com/itc/images/status-orange.png) In Review
 
 ## Support
 
