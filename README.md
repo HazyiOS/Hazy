@@ -30,7 +30,7 @@ What are you waiting for? The weather has never been cooler.
 
 ## Support
 
-If you have any questions or comments please send me an email at support@boboshone.com.
+If you have any questions or comments please send me an email at boboboa32@gmail.com.
 
 ### Members
 
