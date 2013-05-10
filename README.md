@@ -6,7 +6,7 @@ An simple and clean iOS weather app.
 
 ##Description
 
-Hi,tired of seeing so many garish weather apps? Now you have a new choice. 
+Hi,tired of seeing so many garish weather apps? Now you have a new choice. ｡◕‿◕｡
 
 Hazy is build around the idea of giving you the most useful forecast information at a glance. Swipe down to see 24-hour forecast from now on and swipe up to get a 7 day forecasts. The background color will change automatically by sunrise and sunset time of the city. 
 
@@ -27,11 +27,6 @@ What are you waiting for? The weather has never been cooler.
 ![](https://photos-2.dropbox.com/t/0/AABFkLkqbSdlh6rVTcVp8hZhCzT68h7OfS1h2A-ftHwvxA/12/38985441/png/32x32/3/_/1/2/3.png/fMOvUXMg_-YSn7D2I2GUaFXJ-FM-gLihF58CbUqpqKI?size=1280x960)
 ![](https://photos-3.dropbox.com/t/0/AABHRqSi6IHyEBNigt4vDBDDJ0UDB8RNe0O1GJ59lcPbRw/12/38985441/png/32x32/3/_/1/2/4.png/FpJYcrXGjusngv3wSOnHAcRGsv6apWha3OREjoWwvoo?size=1280x960)
 ![](https://photos-2.dropbox.com/t/0/AAAu1dWD0MkcDHhqKtpXs4cqggHzvX5EORhuJRY65v_m1w/12/38985441/png/32x32/3/_/1/2/5.png/WWo4n9yG5izTPqV_6ql9tR5f6DPMR1oMiUVnIapCR9s?size=1280x960)
-
-##Version
-
-### 1.0 
-![](https://itunesconnect.apple.com/itc/images/status-orange.png) In Review
 
 ## Support
 
