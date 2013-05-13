@@ -4,8 +4,6 @@ An simple and clean iOS weather app.
 
 ![Hazy](http://a416.phobos.apple.com/us/r30/Purple2/v4/2f/7d/11/2f7d116e-a167-8bc7-9182-a8cafac8686e/mzl.vchupxwr.170x170-75.png)
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/lWIxW7hGdUA" frameborder="0" allowfullscreen></iframe>
-
 ##Description
 
 Hi,tired of seeing so many garish weather apps? Now you have a new choice. ｡◕‿◕｡
